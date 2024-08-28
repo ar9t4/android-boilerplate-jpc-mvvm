@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-boilerplate-jpc-mvvm</string>
+    <string name="users">کاربران</string>
+    <string name="user_profile_picture">عکس پروفایل کاربر</string>
+    <string name="user_details">مشخصات کاربر</string>
+    <string name="navigate_back_icon">آیکن برگشت را پیمایش کنید</string>
+    <string name="more_details">جزئیات بیشتر</string>
+    <string name="user_email_icon">نماد ایمیل کاربر</string>
+    <string name="user_gender_icon">نماد جنسیت کاربر</string>
+    <string name="user_dob_icon">نماد Dob کاربر</string>
+    <string name="user_location_icon">نماد موقعیت مکانی کاربر</string>
+    <string name="user_phone_icon">نماد تلفن کاربر</string>
+    <string name="settings">تنظیمات</string>
+    <string name="notifications">اطلاعیه</string>
+    <string name="setting_on">بر</string>
+    <string name="setting_off">خاموش</string>
+    <string name="n_p_title">مجوز اطلاعیه ها مورد نیاز است</string>
+    <string name="n_p_text">برنامه برای ارسال اعلان‌ها در دستگاه به مجوز اعلان‌ها نیاز دارد. لطفاً مجوز اعلان‌ها را بدهید.</string>
+    <string name="dismiss">رد</string>
+    <string name="cancel">لغو کنید</string>
+    <string name="open_app_settings">تنظیمات برنامه را باز کنید</string>
+    <string name="n_p_not_granted">مجوز اعلان‌ها داده نشد!</string>
+    <string name="notification_title">Android Jetpack Compose Boilerplate</string>
+    <string name="notification_text">توسعه برنامه اندروید خود را با این صفحه دیگ Jetpack Compose شروع کنید</string>
+    <string name="theme">موضوع</string>
+    <string name="system_default">پیش فرض سیستم</string>
+    <string name="light">سبک</string>
+    <string name="dark">تاریک</string>
+    <string name="select_app_theme">تم برنامه را انتخاب کنید</string>
+    <string name="language">زبان</string>
+    <string name="select_app_language">زبان برنامه را انتخاب کنید</string>
+    <string name="feedback">بازخورد</string>
+    <string name="give_feedback">بازخورد بدهید</string>
+    <string name="how_we_can_improve">چگونه می توانیم پیشرفت کنیم؟</string>
+    <string name="improving_design">بهبود طراحی</string>
+    <string name="improving_experience">بهبود تجربه</string>
+    <string name="improving_functionality">بهبود عملکرد</string>
+    <string name="improving_performance">بهبود عملکرد</string>
+    <string name="briefly_describe_feedback">بازخورد را به طور خلاصه شرح دهید</string>
+    <string name="detailed_feedback">بازخورد دقیق:</string>
+    <string name="type_here_">اینجا تایپ کنید…</string>
+    <string name="submit_feedback">بازخورد ارائه دهید</string>
+    <string name="invalid_feedback">بازخورد نامعتبر!</string>
+    <string name="no_email_app_installed">هیچ برنامه سرویس گیرنده ایمیلی نصب نشده است</string>
+    <string name="more">بیشتر</string>
+    <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="rate_us">به ما رای دهید</string>
+    <string name="more_apps">برنامه های بیشتر</string>
+    <string name="version">نسخه</string>
+    <string name="item_icon">نماد %1$s</string>
+    <string name="navigate_to_list_item">به فهرست آیتم بروید</string>
+    <string name="selected_list_item">مورد فهرست انتخاب شده</string>
+    <string name="share_message">سلام! %1$s را دانلود کنید و شروع به توسعه برنامه خود با این دیگ بخار کنید. https://play.google.com/store/apps/details?id=%2$s</string>
+</resources>

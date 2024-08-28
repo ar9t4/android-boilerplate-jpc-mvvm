@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-boilerplate-jpc-mvvm</string>
+    <string name="users">المستخدمون</string>
+    <string name="user_profile_picture">صورة ملف تعريف المستخدم</string>
+    <string name="user_details">تفاصيل المستخدم</string>
+    <string name="navigate_back_icon">أيقونة الرجوع للخلف</string>
+    <string name="more_details">المزيد من التفاصيل</string>
+    <string name="user_email_icon">أيقونة بريد المستخدم الإلكتروني</string>
+    <string name="user_gender_icon">أيقونة جنس المستخدم</string>
+    <string name="user_dob_icon">أيقونة تاريخ ميلاد المستخدم</string>
+    <string name="user_location_icon">أيقونة موقع المستخدم</string>
+    <string name="user_phone_icon">أيقونة هاتف المستخدم</string>
+    <string name="settings">الإعدادات</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="setting_on">تشغيل</string>
+    <string name="setting_off">إيقاف</string>
+    <string name="n_p_title">مطلوب إذن الإشعارات</string>
+    <string name="n_p_text">يحتاج التطبيق إلى إذن الإشعارات لنشر الإشعارات على الجهاز. يُرجى منح إذن الإشعارات.</string>
+    <string name="dismiss">تجاهل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="open_app_settings">فتح إعدادات التطبيق</string>
+    <string name="n_p_not_granted">لم يتم منح إذن الإشعارات!</string>
+    <string name="notification_title">نموذج Jetpack Compose لنظام Android</string>
+    <string name="notification_text">ابدأ تطوير تطبيق Android الخاص بك باستخدام نموذج Jetpack Compose</string>
+    <string name="theme">الموضوع</string>
+    <string name="system_default">إعداد النظام الافتراضي</string>
+    <string name="light">فاتح</string>
+    <string name="dark">غامق</string>
+    <string name="select_app_theme">حدد موضوع التطبيق</string>
+    <string name="language">اللغة</string>
+    <string name="select_app_language">حدد لغة التطبيق</string>
+    <string name="feedback">الملاحظات</string>
+    <string name="give_feedback">إرسال الملاحظات</string>
+    <string name="how_we_can_improve">كيف يمكننا التحسين؟</string>
+    <string name="improving_design">تحسين التصميم</string>
+    <string name="improving_experience">تحسين التجربة</string>
+    <string name="improving_functionality">تحسين الوظائف</string>
+    <string name="improving_performance">تحسين الأداء</string>
+    <string name="briefly_describe_feedback">وصف الملاحظات بإيجاز</string>
+    <string name="detailed_feedback">الملاحظات التفصيلية:</string>
+    <string name="type_here_">اكتب هنا...</string>
+    <string name="submit_feedback">إرسال الملاحظات</string>
+    <string name="invalid_feedback">ملاحظات غير صالحة!</string>
+    <string name="no_email_app_installed">لم يتم تثبيت أي تطبيقات عميل بريد إلكتروني</string>
+    <string name="more">المزيد</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="share">مشاركة</string>
+    <string name="rate_us">تقييمنا</string>
+    <string name="more_apps">المزيد من التطبيقات</string>
+    <string name="version">الإصدار</string>
+    <string name="item_icon">أيقونة %1$s</string>
+    <string name="navigate_to_list_item">الانتقال إلى عنصر القائمة</string>
+    <string name="selected_list_item">عنصر القائمة المحدد</string>
+    <string name="share_message">مرحبًا! قم بتنزيل %1$s وابدأ في تطوير تطبيقك باستخدام هذا القالب. https://play.google.com/store/apps/details?id=%2$s</string>
+</resources>

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "lang": "en",
+    "name": "English"
+  },
+  {
+    "id": 1,
+    "lang": "ar",
+    "name": "(Arabic) العربية"
+  },
+  {
+    "id": 2,
+    "lang": "nl",
+    "name": "Netherlands (Dutch)"
+  },
+  {
+    "id": 3,
+    "lang": "fr",
+    "name": "français (French)"
+  },
+  {
+    "id": 4,
+    "lang": "de",
+    "name": "Deutsche (German)"
+  },
+  {
+    "id": 5,
+    "lang": "hi",
+    "name": "हिन्दी (Hindi)"
+  },
+  {
+    "id": 6,
+    "lang": "in",
+    "name": "bahasa Indonesia (Indonesian)"
+  },
+  {
+    "id": 7,
+    "lang": "it",
+    "name": "Italiano (Italian)"
+  },
+  {
+    "id": 8,
+    "lang": "ms",
+    "name": "Bahasa Melayu (Malay)"
+  },
+  {
+    "id": 9,
+    "lang": "fa",
+    "name": "فارسی (Persian)"
+  },
+  {
+    "id": 10,
+    "lang": "pt",
+    "name": "Português (Portuguese)"
+  },
+  {
+    "id": 11,
+    "lang": "ro",
+    "name": "Română (Romanian)"
+  },
+  {
+    "id": 12,
+    "lang": "ru",
+    "name": "русский (Russian)"
+  },
+  {
+    "id": 13,
+    "lang": "es",
+    "name": "Español (Spanish)"
+  },
+  {
+    "id": 14,
+    "lang": "tr",
+    "name": "Türk (Turkish)"
+  },
+  {
+    "id": 15,
+    "lang": "vi",
+    "name": "Tiếng Việt (Vietnamese)"
+  }
+]

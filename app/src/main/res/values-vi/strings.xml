@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-boilerplate-jpc-mvvm</string>
+    <string name="users">Người dùng</string>
+    <string name="user_profile_picture">Ảnh hồ sơ người dùng</string>
+    <string name="user_details">Chi tiết người dùng</string>
+    <string name="navigate_back_icon">Biểu tượng điều hướng quay lại</string>
+    <string name="more_details">Chi tiết hơn</string>
+    <string name="user_email_icon">Biểu tượng email người dùng</string>
+    <string name="user_gender_icon">Biểu tượng giới tính người dùng</string>
+    <string name="user_dob_icon">Biểu tượng ngày sinh người dùng</string>
+    <string name="user_location_icon">Biểu tượng vị trí người dùng</string>
+    <string name="user_phone_icon">Biểu tượng điện thoại người dùng</string>
+    <string name="settings">Cài đặt</string>
+    <string name="notifications">Thông báo</string>
+    <string name="setting_on">Bật</string>
+    <string name="setting_off">Tắt</string>
+    <string name="n_p_title">Yêu cầu quyền thông báo</string>
+    <string name="n_p_text">Ứng dụng cần có quyền thông báo để đăng thông báo trên thiết bị. Vui lòng cấp quyền thông báo.</string>
+    <string name="dismiss">Bỏ qua</string>
+    <string name="cancel">Hủy</string>
+    <string name="open_app_settings">Mở Cài đặt ứng dụng</string>
+    <string name="n_p_not_granted">Không cấp quyền thông báo!</string>
+    <string name="notification_title">Android Jetpack Compose Boilerplate</string>
+    <string name="notification_text">Bắt đầu phát triển ứng dụng Android của bạn bằng mẫu Jetpack Compose boilerplate này</string>
+    <string name="theme">Chủ đề</string>
+    <string name="system_default">Mặc định của hệ thống</string>
+    <string name="light">Sáng</string>
+    <string name="dark">Tối</string>
+    <string name="select_app_theme">Chọn chủ đề ứng dụng</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="select_app_language">Chọn ngôn ngữ ứng dụng</string>
+    <string name="feedback">Phản hồi</string>
+    <string name="give_feedback">Gửi phản hồi</string>
+    <string name="how_we_can_improve">Chúng tôi có thể cải thiện như thế nào?</string>
+    <string name="improving_design">Cải thiện thiết kế</string>
+    <string name="improving_experience">Cải thiện trải nghiệm</string>
+    <string name="improving_functionality">Cải thiện chức năng</string>
+    <string name="improving_performance">Cải thiện hiệu suất</string>
+    <string name="briefly_describe_feedback">Mô tả ngắn gọn phản hồi</string>
+    <string name="detailed_feedback">Phản hồi chi tiết:</string>
+    <string name="type_here_">Nhập tại đây…</string>
+    <string name="submit_feedback">Gửi phản hồi</string>
+    <string name="invalid_feedback">Phản hồi không hợp lệ!</string>
+    <string name="no_email_app_installed">Không có ứng dụng email nào được cài đặt</string>
+    <string name="more">Thêm</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="share">Chia sẻ</string>
+    <string name="rate_us">Đánh giá chúng tôi</string>
+    <string name="more_apps">Thêm ứng dụng</string>
+    <string name="version">Phiên bản</string>
+    <string name="item_icon">Biểu tượng %1$s</string>
+    <string name="navigate_to_list_item">Điều hướng đến Mục danh sách</string>
+    <string name="selected_list_item">Mục danh sách đã chọn</string>
+    <string name="share_message">Này! Tải xuống %1$s và bắt đầu phát triển ứng dụng của bạn bằng mẫu này. https://play.google.com/store/apps/details?id=%2$s</string>
+</resources>

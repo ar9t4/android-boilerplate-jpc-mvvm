@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-boilerplate-jpc-mvvm</string>
+    <string name="users">Pengguna</string>
+    <string name="user_profile_picture">Gambar Profil Pengguna</string>
+    <string name="user_details">Detail Pengguna</string>
+    <string name="navigate_back_icon">Ikon Navigasi Kembali</string>
+    <string name="more_details">Detail Lainnya</string>
+    <string name="user_email_icon">Ikon Email Pengguna</string>
+    <string name="user_gender_icon">Ikon Jenis Kelamin Pengguna</string>
+    <string name="user_dob_icon">Ikon Tanggal Lahir Pengguna</string>
+    <string name="user_location_icon">Ikon Lokasi Pengguna</string>
+    <string name="user_phone_icon">Ikon Telepon Pengguna</string>
+    <string name="settings">Pengaturan</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="setting_on">Aktif</string>
+    <string name="setting_off">Nonaktif</string>
+    <string name="n_p_title">Izin Notifikasi Diperlukan</string>
+    <string name="n_p_text">Aplikasi memerlukan izin notifikasi untuk mengirim notifikasi pada perangkat. Harap berikan izin notifikasi.</string>
+    <string name="dismiss">Abaikan</string>
+    <string name="cancel">Batal</string>
+    <string name="open_app_settings">Buka Setelan Aplikasi</string>
+    <string name="n_p_not_granted">Izin notifikasi tidak diberikan!</string>
+    <string name="notification_title">Boilerplate Android Jetpack Compose</string>
+    <string name="notification_text">Mulai pengembangan aplikasi Android Anda dengan boilerplate Jetpack Compose ini</string>
+    <string name="theme">Tema</string>
+    <string name="system_default">Default Sistem</string>
+    <string name="light">Terang</string>
+    <string name="dark">Gelap</string>
+    <string name="select_app_theme">Pilih Tema Aplikasi</string>
+    <string name="language">Bahasa</string>
+    <string name="select_app_language">Pilih Bahasa Aplikasi</string>
+    <string name="feedback">Umpan Balik</string>
+    <string name="give_feedback">Berikan Umpan Balik</string>
+    <string name="how_we_can_improve">Bagaimana kami dapat meningkatkan?</string>
+    <string name="improving_design">Meningkatkan Desain</string>
+    <string name="improving_experience">Meningkatkan Pengalaman</string>
+    <string name="improving_functionality">Meningkatkan Fungsionalitas</string>
+    <string name="improving_performance">Meningkatkan Performa</string>
+    <string name="briefly_describe_feedback">Jelaskan umpan balik secara singkat</string>
+    <string name="detailed_feedback">Umpan balik terperinci:</string>
+    <string name="type_here_">Ketik di sini…</string>
+    <string name="submit_feedback">Kirim Umpan Balik</string>
+    <string name="invalid_feedback">Umpan Balik Tidak Valid!</string>
+    <string name="no_email_app_installed">Tidak ada aplikasi klien email yang terpasang</string>
+    <string name="more">Lainnya</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="share">Bagikan</string>
+    <string name="rate_us">Beri peringkat kami</string>
+    <string name="more_apps">Lebih Banyak Aplikasi</string>
+    <string name="version">Versi</string>
+    <string name="item_icon">Ikon %1$s</string>
+    <string name="navigate_to_list_item">Arahkan ke Item Daftar</string>
+    <string name="selected_list_item">Item Daftar yang Dipilih</string>
+    <string name="share_message">Hai! Unduh %1$s dan mulai kembangkan aplikasi Anda dengan boilerplate ini. https://play.google.com/store/apps/details?id=%2$s</string>
+</resources>

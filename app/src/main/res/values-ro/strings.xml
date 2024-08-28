@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-boilerplate-jpc-mvvm</string>
+    <string name="users">Utilizatori</string>
+    <string name="user_profile_picture">Poza de profil utilizator</string>
+    <string name="user_details">Detalii utilizator</string>
+    <string name="navigate_back_icon">Pictograma Navigare Înapoi</string>
+    <string name="more_details">Mai multe detalii</string>
+    <string name="user_email_icon">Pictograma de e-mail al utilizatorului</string>
+    <string name="user_gender_icon">Pictograma Gen utilizator</string>
+    <string name="user_dob_icon">Pictograma utilizator Dob</string>
+    <string name="user_location_icon">Pictograma locației utilizatorului</string>
+    <string name="user_phone_icon">Pictograma telefonului utilizatorului</string>
+    <string name="settings">Setări</string>
+    <string name="notifications">Notificări</string>
+    <string name="setting_on">Pe</string>
+    <string name="setting_off">Oprit</string>
+    <string name="n_p_title">Notificări Permisiune necesară</string>
+    <string name="n_p_text">Aplicația are nevoie de permisiunea de notificări pentru a posta notificări pe dispozitiv. Vă rugăm să acordați permisiunea notificărilor.</string>
+    <string name="dismiss">Respingeți</string>
+    <string name="cancel">Anulare</string>
+    <string name="open_app_settings">Deschideți Setările aplicației</string>
+    <string name="n_p_not_granted">Permisiunea de notificări nu a fost acordată!</string>
+    <string name="notification_title">Android Jetpack Compose Boilerplate</string>
+    <string name="notification_text">Începeți dezvoltarea aplicației pentru Android cu acest boilerplate Jetpack Compose</string>
+    <string name="theme">Temă</string>
+    <string name="system_default">Defectiune de sistem</string>
+    <string name="light">Ușoară</string>
+    <string name="dark">Întuneric</string>
+    <string name="select_app_theme">Selectați Tema aplicației</string>
+    <string name="language">Limba</string>
+    <string name="select_app_language">Selectați Limba aplicației</string>
+    <string name="feedback">Părere</string>
+    <string name="give_feedback">Dați feedback</string>
+    <string name="how_we_can_improve">Cum ne putem îmbunătăți?</string>
+    <string name="improving_design">Îmbunătățirea designului</string>
+    <string name="improving_experience">Îmbunătățirea experienței</string>
+    <string name="improving_functionality">Îmbunătățirea funcționalității</string>
+    <string name="improving_performance">Îmbunătățirea performanței</string>
+    <string name="briefly_describe_feedback">Descrieți pe scurt feedback-ul</string>
+    <string name="detailed_feedback">Feedback detaliat:</string>
+    <string name="type_here_">Scrie aici…</string>
+    <string name="submit_feedback">Trimite parerea ta</string>
+    <string name="invalid_feedback">Feedback nevalid!</string>
+    <string name="no_email_app_installed">Nu sunt instalate aplicații client de e-mail</string>
+    <string name="more">Mai mult</string>
+    <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="share">Acțiune</string>
+    <string name="rate_us">Ne evalua</string>
+    <string name="more_apps">Mai multe aplicatii</string>
+    <string name="version">Versiune</string>
+    <string name="item_icon">Pictograma %1$s</string>
+    <string name="navigate_to_list_item">Navigați la Element din listă</string>
+    <string name="selected_list_item">Element selectat din listă</string>
+    <string name="share_message">Hei! Descărcați %1$s și începeți să vă dezvoltați aplicația cu acest boilerplate. https://play.google.com/store/apps/details?id=%2$s</string>
+</resources>

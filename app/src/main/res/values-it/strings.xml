@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-boilerplate-jpc-mvvm</string>
+    <string name="users">Utenti</string>
+    <string name="user_profile_picture">Immagine del profilo utente</string>
+    <string name="user_details">Dettagli utente</string>
+    <string name="navigate_back_icon">Icona Indietro</string>
+    <string name="more_details">Altri dettagli</string>
+    <string name="user_email_icon">Icona Email utente</string>
+    <string name="user_gender_icon">Icona Genere utente</string>
+    <string name="user_dob_icon">Icona Data di nascita utente</string>
+    <string name="user_location_icon">Icona Posizione utente</string>
+    <string name="user_phone_icon">Icona Telefono utente</string>
+    <string name="settings">Impostazioni</string>
+    <string name="notifications">Notifiche</string>
+    <string name="setting_on">Attivo</string>
+    <string name="setting_off">Disattivo</string>
+    <string name="n_p_title">Autorizzazione notifiche richiesta</string>
+    <string name="n_p_text">L\'app necessita dell\'autorizzazione alle notifiche per pubblicare notifiche sul dispositivo. Concedi l\'autorizzazione alle notifiche.</string>
+    <string name="dismiss">Ignora</string>
+    <string name="cancel">Annulla</string>
+    <string name="open_app_settings">Apri Impostazioni app</string>
+    <string name="n_p_not_granted">Autorizzazione notifiche non concessa!</string>
+    <string name="notification_title">Boilerplate Android Jetpack Compose</string>
+    <string name="notification_text">Inizia lo sviluppo della tua app Android con questo boilerplate Jetpack Compose</string>
+    <string name="theme">Tema</string>
+    <string name="system_default">Predefinito di sistema</string>
+    <string name="light">Chiaro</string>
+    <string name="dark">Scuro</string>
+    <string name="select_app_theme">Seleziona tema app</string>
+    <string name="language">Lingua</string>
+    <string name="select_app_language">Seleziona lingua app</string>
+    <string name="feedback">Feedback</string>
+    <string name="give_feedback">Invia feedback</string>
+    <string name="how_we_can_improve">Come possiamo migliorare?</string>
+    <string name="improving_design">Miglioramento del design</string>
+    <string name="improving_experience">Miglioramento dell\'esperienza</string>
+    <string name="improving_functionality">Miglioramento della funzionalità</string>
+    <string name="improving_performance">Miglioramento delle prestazioni</string>
+    <string name="briefly_describe_feedback">Descrivi brevemente il feedback</string>
+    <string name="detailed_feedback">Feedback dettagliato:</string>
+    <string name="type_here_">Scrivi qui…</string>
+    <string name="submit_feedback">Invia feedback</string>
+    <string name="invalid_feedback">Feedback non valido!</string>
+    <string name="no_email_app_installed">Nessuna app client di posta elettronica installata</string>
+    <string name="more">Altro</string>
+    <string name="privacy_policy">Informativa sulla privacy</string>
+    <string name="share">Condividi</string>
+    <string name="rate_us">Valutaci</string>
+    <string name="more_apps">Altre app</string>
+    <string name="version">Versione</string>
+    <string name="item_icon">Icona %1$s</string>
+    <string name="navigate_to_list_item">Vai all\'elemento elenco</string>
+    <string name="selected_list_item">Elemento elenco selezionato</string>
+    <string name="share_message">Ehi! Scarica %1$s e inizia a sviluppare la tua applicazione con questo boilerplate. https://play.google.com/store/apps/details?id=%2$s</string>
+</resources>

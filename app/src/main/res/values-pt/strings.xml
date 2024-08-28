@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-boilerplate-jpc-mvvm</string>
+    <string name="users">Usuários</string>
+    <string name="user_profile_picture">Foto de perfil do utilizador</string>
+    <string name="user_details">Detalhes do utilizador</string>
+    <string name="navigate_back_icon">Ícone Navegar para trás</string>
+    <string name="more_details">Mais detalhes</string>
+    <string name="user_email_icon">Ícone de e-mail do utilizador</string>
+    <string name="user_gender_icon">Ícone de género do utilizador</string>
+    <string name="user_dob_icon">Ícone Dob do utilizador</string>
+    <string name="user_location_icon">Ícone de localização do utilizador</string>
+    <string name="user_phone_icon">Ícone de telefone do utilizador</string>
+    <string name="settings">Configurações</string>
+    <string name="notifications">Notificações</string>
+    <string name="setting_on">Em</string>
+    <string name="setting_off">Desligado</string>
+    <string name="n_p_title">Permissão de notificações necessária</string>
+    <string name="n_p_text">A aplicação precisa de permissão de notificações para publicar notificações no dispositivo. Conceda permissão para notificações.</string>
+    <string name="dismiss">Dispensar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="open_app_settings">Abra as definições do aplicativo</string>
+    <string name="n_p_not_granted">Permissão de notificações não concedida!</string>
+    <string name="notification_title">Padrão do Android Jetpack Compose</string>
+    <string name="notification_text">Comece o desenvolvimento da sua aplicação Android com este modelo do Jetpack Compose</string>
+    <string name="theme">Tema</string>
+    <string name="system_default">Sistema padrão</string>
+    <string name="light">Luz</string>
+    <string name="dark">Escuro</string>
+    <string name="select_app_theme">Selecione o tema da aplicação</string>
+    <string name="language">Idioma</string>
+    <string name="select_app_language">Selecione o idioma da aplicação</string>
+    <string name="feedback">Feedback</string>
+    <string name="give_feedback">Dê retorno</string>
+    <string name="how_we_can_improve">Como podemos melhorar?</string>
+    <string name="improving_design">Melhorando o Design</string>
+    <string name="improving_experience">Melhorando a experiência</string>
+    <string name="improving_functionality">Melhorando a Funcionalidade</string>
+    <string name="improving_performance">Melhorando a performance</string>
+    <string name="briefly_describe_feedback">Descreva resumidamente o feedback</string>
+    <string name="detailed_feedback">Feedback detalhado:</string>
+    <string name="type_here_">Digite aqui…</string>
+    <string name="submit_feedback">Enviar comentários</string>
+    <string name="invalid_feedback">Feedback inválido!</string>
+    <string name="no_email_app_installed">Nenhuma aplicação cliente de e-mail instalada</string>
+    <string name="more">Mais</string>
+    <string name="privacy_policy">política de Privacidade</string>
+    <string name="share">Partilhar</string>
+    <string name="rate_us">Nos avalie</string>
+    <string name="more_apps">Mais aplicações</string>
+    <string name="version">Versão</string>
+    <string name="item_icon">Ícone %1$s</string>
+    <string name="navigate_to_list_item">Navegue até ao item da lista</string>
+    <string name="selected_list_item">Item de lista selecionado</string>
+    <string name="share_message">Olá! Descarregue %1$s e comece a desenvolver a sua aplicação com este modelo. https://play.google.com/store/apps/details?id=%2$s</string>
+</resources>

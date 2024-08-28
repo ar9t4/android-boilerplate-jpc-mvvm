@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-boilerplate-jpc-mvvm</string>
+    <string name="users">उपयोगकर्ता</string>
+    <string name="user_profile_picture">उपयोगकर्ता प्रोफ़ाइल चित्र</string>
+    <string name="user_details">उपयोगकर्ता विवरण</string>
+    <string name="navigate_back_icon">नेविगेट बैक आइकन</string>
+    <string name="more_details">अधिक विवरण</string>
+    <string name="user_email_icon">उपयोगकर्ता ईमेल आइकन</string>
+    <string name="user_gender_icon">उपयोगकर्ता लिंग आइकन</string>
+    <string name="user_dob_icon">उपयोगकर्ता जन्म तिथि आइकन</string>
+    <string name="user_location_icon">उपयोगकर्ता स्थान आइकन</string>
+    <string name="user_phone_icon">उपयोगकर्ता फ़ोन आइकन</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="notifications">सूचनाएँ</string>
+    <string name="setting_on">चालू</string>
+    <string name="setting_off">बंद</string>
+    <string name="n_p_title">सूचनाएँ अनुमति आवश्यक</string>
+    <string name="n_p_text">ऐप को डिवाइस पर सूचनाएँ पोस्ट करने के लिए सूचनाएँ अनुमति की आवश्यकता है। कृपया सूचनाएँ अनुमति दें।</string>
+    <string name="dismiss">खारिज करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="open_app_settings">ऐप सेटिंग खोलें</string>
+    <string name="n_p_not_granted">सूचनाएँ अनुमति नहीं दी गई!</string>
+    <string name="notification_title">Android Jetpack Compose Boilerplate</string>
+    <string name="notification_text">इस Jetpack Compose Boilerplate के साथ अपना Android ऐप डेवलपमेंट शुरू करें</string>
+    <string name="theme">थीम</string>
+    <string name="system_default">सिस्टम डिफ़ॉल्ट</string>
+    <string name="light">लाइट</string>
+    <string name="dark">डार्क</string>
+    <string name="select_app_theme">ऐप थीम चुनें</string>
+    <string name="language">भाषा</string>
+    <string name="select_app_language">ऐप भाषा चुनें</string>
+    <string name="feedback">प्रतिक्रिया</string>
+    <string name="give_feedback">प्रतिक्रिया दें</string>
+    <string name="how_we_can_improve">हम कैसे सुधार कर सकते हैं?</string>
+    <string name="improving_design">डिज़ाइन में सुधार</string>
+    <string name="improving_experience">अनुभव में सुधार</string>
+    <string name="improving_functionality">कार्यक्षमता में सुधार</string>
+    <string name="improving_performance">प्रदर्शन में सुधार</string>
+    <string name="briefly_describe_feedback">संक्षेप में प्रतिक्रिया का वर्णन करें</string>
+    <string name="detailed_feedback">विस्तृत प्रतिक्रिया:</string>
+    <string name="type_here_">यहाँ टाइप करें…</string>
+    <string name="submit_feedback">प्रतिक्रिया सबमिट करें</string>
+    <string name="invalid_feedback">अमान्य प्रतिक्रिया!</string>
+    <string name="no_email_app_installed">कोई ईमेल क्लाइंट ऐप इंस्टॉल नहीं है</string>
+    <string name="more">अधिक</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="share">साझा करें</string>
+    <string name="rate_us">हमें रेटिंग दें</string>
+    <string name="more_apps">अधिक ऐप</string>
+    <string name="version">संस्करण</string>
+    <string name="item_icon">%1$s आइकन</string>
+    <string name="navigate_to_list_item">सूची आइटम पर जाएँ</string>
+    <string name="selected_list_item">चयनित सूची आइटम</string>
+    <string name="share_message">अरे! %1$s डाउनलोड करें और इस बॉयलरप्लेट के साथ अपना एप्लिकेशन विकसित करना शुरू करें। https://play.google.com/store/apps/details?id=%2$s</string>
+</resources>

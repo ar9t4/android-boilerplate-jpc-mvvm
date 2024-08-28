@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:tools="http://schemas.android.com/tools">
+    <base-config
+        cleartextTrafficPermitted="true"
+        tools:ignore="InsecureBaseConfiguration" />
+    <domain-config>
+        <domain-config cleartextTrafficPermitted="true">
+            <domain includeSubdomains="true">https://randomuser.me/api/</domain>
+        </domain-config>
+
+        <domain includeSubdomains="true">randomuser.me/api/</domain>
+        <trust-anchors>
+            <certificates src="@raw/ca" />
+            <certificates src="system" />
+        </trust-anchors>
+    </domain-config>
+</network-security-config>
